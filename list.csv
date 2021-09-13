@@ -6,7 +6,7 @@ international_talk,http://streaming510.radionomy.com/2cr-radio
 bible_ru,http://amoris.sknt.ru:8026/stream
 synth_autodj,http://5.39.86.44:8006/stream-mp3-CoolCoffee_autodj
 ambiance_lounge,http://streaming512.radionomy.com/Ambiance-Lounge
-classical_focus,https://relax.stream.publicradio.org/focus.mp3
+hbr_dance,http://stream.whrb.org:8000/whrb-mp3
 synth_attack,http://stream.syntheticfm.com:8040/live
 lofi_stereo,http://cast.animu.com.br:1065/stream
 spooky,http://aliendreams.ddns.net:8000/music
@@ -16,3 +16,6 @@ chill_synth,https://stream.chillsynth.fm/chillsynth.ogg
 ocean,http://streaming510.radionomy.com/ocean-soundscape
 edm,http://air.radiorecord.ru:805/edmhits_128
 techno,http://amoris.sknt.ru/techno.mp3
+classical_wuft,https://ais-sa1.streamon.fm/7648_48k.aac
+classical_weta,https://16803.live.streamtheworld.com/WETAVLV.mp3
+classical_focus,https://relax.stream.publicradio.org/focus.mp3
